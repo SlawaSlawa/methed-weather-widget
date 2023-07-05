@@ -4,4 +4,4 @@
 
 ## Ссылка на GitHub Pages
 
-[Methed-your-meal](https://slawaslawa.github.io/methed-your_meal/)
+[Methed-weather-widget](https://slawaslawa.github.io/methed-weather-widget/)
